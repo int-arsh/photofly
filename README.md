@@ -1,4 +1,4 @@
-# Photo Editing Tool
+# photofly
 
 A simple photo editing tool built with React. This tool allows you to adjust the brightness, saturation, contrast, and other properties of your photos.
 
