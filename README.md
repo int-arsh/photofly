@@ -9,14 +9,14 @@ A simple photo editing tool built with React. This tool allows you to adjust the
 - Adjust Contrast
 - More features to come!
 
-## Demo
+<!-- ## Demo
 
 A live demo of the application is available [here](#).
 
 ## Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/screenshot2.png) -->
 
 ## Installation
 
